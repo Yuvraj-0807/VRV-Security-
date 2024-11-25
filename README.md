@@ -24,19 +24,26 @@ This project is a simple **User Management System** built with **React-JS**. It 
 
    ```bash
    https://github.com/Yuvraj-0807/VRV-Security-.git
+   ```
+   
+   
 
 2. **Install dependencies:**
 
-   - (Assuming you have Node.js and npm installed)
-   - Run the below command to install all the required dependencies.
-   
+- (Assuming you have Node.js and npm installed)
+- Run the below command to install all the required dependencies.
+
+    ```bash
     npm install
+  ```
 
-2. **Start the application:**
+3. **Start the application:**
 
-   - Run the below command to start the project locally.
+- Run the below command to start the project locally.
    
+    ```bash
     npm start
+    ```
 
 
 ## Interacting with the Application
