@@ -23,7 +23,7 @@ This project is a simple **User Management System** built with **React-JS**. It 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/harver2001/RBAC-VRV-Security
+   https://github.com/Yuvraj-0807/VRV-Security-.git
 
 2. **Install dependencies:**
 
